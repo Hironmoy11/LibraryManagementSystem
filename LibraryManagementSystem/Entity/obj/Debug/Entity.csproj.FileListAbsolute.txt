@@ -1,0 +1,4 @@
+D:\New folder (5)\LibraryManagementSystem\Entity\bin\Debug\Entity.dll
+D:\New folder (5)\LibraryManagementSystem\Entity\bin\Debug\Entity.pdb
+D:\New folder (5)\LibraryManagementSystem\Entity\obj\Debug\Entity.dll
+D:\New folder (5)\LibraryManagementSystem\Entity\obj\Debug\Entity.pdb

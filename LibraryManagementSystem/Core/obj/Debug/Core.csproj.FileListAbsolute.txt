@@ -1,0 +1,9 @@
+D:\New folder (5)\LibraryManagementSystem\Core\bin\Debug\Core.dll
+D:\New folder (5)\LibraryManagementSystem\Core\bin\Debug\Core.pdb
+D:\New folder (5)\LibraryManagementSystem\Core\bin\Debug\Data.dll
+D:\New folder (5)\LibraryManagementSystem\Core\bin\Debug\Entity.dll
+D:\New folder (5)\LibraryManagementSystem\Core\bin\Debug\Data.pdb
+D:\New folder (5)\LibraryManagementSystem\Core\bin\Debug\Entity.pdb
+D:\New folder (5)\LibraryManagementSystem\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\New folder (5)\LibraryManagementSystem\Core\obj\Debug\Core.dll
+D:\New folder (5)\LibraryManagementSystem\Core\obj\Debug\Core.pdb

@@ -1,0 +1,7 @@
+D:\New folder (5)\LibraryManagementSystem\Data\bin\Debug\Data.dll
+D:\New folder (5)\LibraryManagementSystem\Data\bin\Debug\Data.pdb
+D:\New folder (5)\LibraryManagementSystem\Data\bin\Debug\Entity.dll
+D:\New folder (5)\LibraryManagementSystem\Data\bin\Debug\Entity.pdb
+D:\New folder (5)\LibraryManagementSystem\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\New folder (5)\LibraryManagementSystem\Data\obj\Debug\Data.dll
+D:\New folder (5)\LibraryManagementSystem\Data\obj\Debug\Data.pdb
